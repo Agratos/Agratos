@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=350&text=Welcome%20to%20Agratos&animation=scaleIn&desc=Study%20every%20day%20to%20become%20a%20better%20then%20yesterday...&descAlign=65&descAlignY=50&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=Welcome%20to%20Agratos&animation=scaleIn&desc=Study%20every%20day%20to%20become%20a%20better%20then%20yesterday...&descAlign=65&descAlignY=50&fontAlignY=36)
   
   
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -12,3 +12,5 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /></a> &nbsp
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agratos&show_icons=true&theme=solarized-light)
