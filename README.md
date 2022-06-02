@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=Welcome%20to%20Agratos&animation=scaleIn&desc=Study%20every%20day%20to%20become%20a%20better%20then%20yesterday...&descAlign=65&descAlignY=50&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=Welcome%20to%20Agratos&animation=scaleIn&desc=Study%20every%20day%20to%20become%20a%20better%20then%20yesterday...&descAlign=65&descAlignY=52&fontAlignY=36)
   
   
 # Front-End Developer
