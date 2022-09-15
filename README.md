@@ -31,4 +31,7 @@
 </p>
 </br></br>
 
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agratos&show_icons=true&theme=solarized-light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agratos&layout=compact&theme=tokyonight)
